@@ -7,6 +7,7 @@ The project detected the player by CenterNet and devided the court by SegNet to 
 Together with the project, we create a tool for labeling the court, which you can see in the labeling file.
 
 ### Result
+Click to watch video:
 
 [![Result](http://img.youtube.com/vi/LnUmOx-sZfg/0.jpg)](http://www.youtube.com/watch?v=LnUmOx-sZfg "The result of Player-Detection-And-Map-Their-Position-to-2D-Court")
 
