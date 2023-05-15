@@ -3,6 +3,7 @@ To use the labeling program...
 2. create a "images_mask" and keep it empty (it will save the images mask after you label)
 3. create a "images" file and keep it empty (the labeled image would move to here)
 4. excute the labeling.py
+    ![explanation image of labeling](https://github.com/RitaHsieh/Player-Detection-Map-to-2D-Court/blob/main/labeling/court%20type.png)
     - identify which type the court is
     - mark the point as the type do in order
     - click "q" on keyboard
